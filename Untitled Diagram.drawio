@@ -4,29 +4,35 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#0069D1;" parent="1" vertex="1">
+        <mxCell id="70666756c84bb93c-1" value="Ad" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#0069D1;" parent="1" vertex="1">
           <mxGeometry x="280" y="110" width="500" height="500" as="geometry" />
         </mxCell>
         <mxCell id="70666756c84bb93c-2" value="WMS Logist Plus" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="230" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="70666756c84bb93c-6" value="Comercialización" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.call_center_agent;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="660" y="413" width="46" height="55" as="geometry" />
+          <mxGeometry x="376" y="439" width="46" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LJ36bw9VPEOvPX9BSpLh-3" value="Inspección&lt;div&gt;&amp;nbsp;Contenedores&lt;/div&gt;" style="shape=mxgraph.signs.transportation.truck_1;html=1;pointerEvents=1;fillColor=default;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;flipH=0;flipV=0;fixedWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="242" width="77.65" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LJ36bw9VPEOvPX9BSpLh-11" value="Almacenamiento" style="shape=mxgraph.signs.travel.museum;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Verdana;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="499.24" y="507" width="61.51" height="59" as="geometry" />
+        <mxCell id="LJ36bw9VPEOvPX9BSpLh-3" value="Inspección de&lt;div&gt;&amp;nbsp;Contenedores&lt;/div&gt;" style="shape=mxgraph.signs.transportation.truck_1;html=1;pointerEvents=1;fillColor=default;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;flipH=0;flipV=0;fixedWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="195.5" width="77.65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LJ36bw9VPEOvPX9BSpLh-12" value="Deposito Aduanero" style="shape=mxgraph.signs.transportation.ship_2;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="495.65" y="130" width="68.69" height="68" as="geometry" />
+          <mxGeometry x="505.06" y="137.5" width="58.59" height="58" as="geometry" />
         </mxCell>
         <mxCell id="LJ36bw9VPEOvPX9BSpLh-14" value="Operaciones" style="shape=mxgraph.signs.transportation.forklift;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontColor=#FFFFFF;fontFamily=Verdana;strokeWidth=1;perimeterSpacing=0;shadow=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="324.53" y="380" width="75.47" height="67" as="geometry" />
+          <mxGeometry x="312.18" y="303" width="75.47" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="LJ36bw9VPEOvPX9BSpLh-28" value="Control de&lt;div&gt;Salida&lt;/div&gt;" style="shape=mxgraph.signs.tech.cell_phone;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="690" y="242" width="38.37" height="80" as="geometry" />
+        <mxCell id="LJ36bw9VPEOvPX9BSpLh-28" value="Control y&amp;nbsp;&lt;div&gt;trazabilidad&lt;/div&gt;" style="shape=mxgraph.signs.tech.cell_phone;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="33.57" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ36bw9VPEOvPX9BSpLh-32" value="Dashboard BI" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;fillColor=default;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="650" y="195.5" width="50" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ36bw9VPEOvPX9BSpLh-35" value="&lt;font&gt;Innovación y&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Disponibilidad&lt;/font&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.cloud_service;fontColor=#FFFFFF;fontSize=14;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="625" y="424" width="82.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LJ36bw9VPEOvPX9BSpLh-40" value="Almacenamiento e&lt;div&gt;Inventario&lt;/div&gt;" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.inventory;fontFamily=Verdana;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="501.65" y="502" width="62" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
