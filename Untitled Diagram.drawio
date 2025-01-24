@@ -7,7 +7,7 @@
         <mxCell id="70666756c84bb93c-1" value="Ad" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#0069D1;" parent="1" vertex="1">
           <mxGeometry x="280" y="110" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-2" value="WMS Logist Plus" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="70666756c84bb93c-2" value="&lt;div&gt;Nova WMS&lt;/div&gt;WMS Logist Plus&lt;div&gt;WMS Comex&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="230" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="70666756c84bb93c-6" value="Comercialización" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.call_center_agent;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
